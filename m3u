@@ -1,4 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1,canal1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=404835,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=400x300
+https://shlsakamai4.akamaized.net/hlsorigin/gulfstream_west_fm_400/chunklist.m3u8?stream=gulfstream_west_mbr&cust=TVG&user=&t=1605811810&h=914d72a4ff3cdafc0cb1759f0aaa245b&type=live
+#EXT-X-STREAM-INF:BANDWIDTH=56835,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=400x300
 https://shlsakamai4.akamaized.net/hlsorigin/gulfstream_west_fm_56/chunklist.m3u8?stream=gulfstream_west_mbr&cust=TVG&user=&t=1605811810&h=914d72a4ff3cdafc0cb1759f0aaa245b&type=live
+
